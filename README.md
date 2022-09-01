@@ -19,7 +19,8 @@ The input features used for the model are:
 * PetalLengthCm
 * PetalWidthCm
 
-The ouput feature * Species
+The ouput feature 
+* Species
 
 In this project, with the help of the Linear Regression algorithm from
 Scikit-Learn, the dataset is plitted into testing and training set with 
